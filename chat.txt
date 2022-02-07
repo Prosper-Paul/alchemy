@@ -1,2 +1,3 @@
 prosper-: Hi deen, it is my first time using git 
 deen-: Hi prosper, welcome aboard here. hope you enjoy some git commands, take "git stash, git add ,git pull, git push"
+deen-: You can also learn somegit commands on https://learngitbranching.js.org, kudo! 
